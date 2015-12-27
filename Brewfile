@@ -3,7 +3,7 @@
 
 ## Caskroom/cask
 tap Caskroom/cask
-cask Alfred
+cask alfred
 cask appcleaner
 cask battle-net
 cask cakebrew
@@ -38,7 +38,6 @@ brew brew-file
 brew league-of-legends
 
 # App Store applications
-appstore Alfred
 appstore Caffeine
 appstore Evernote
 appstore Found
