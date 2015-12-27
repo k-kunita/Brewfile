@@ -1,8 +1,9 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
-tap caskroom/cask
+## Caskroom/cask
+tap Caskroom/cask
+cask Alfred link
 cask appcleaner
 cask battle-net
 cask cakebrew
@@ -18,16 +19,23 @@ cask skala-preview
 cask skype
 cask sophos-anti-virus-home-edition
 cask sourcetree
+cask steermouse
 cask sublime-text
 cask teamspeak-client
 cask virtualbox
 cask vlc
 cask xtrafinder
 
+## caskroom/cask
+tap caskroom/cask
+cask sophos-anti-virus-home-edition
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
-cask sophos-anti-virus-home-edition
+
+# Other Homebrew packages
+brew league-of-legends
 
 # App Store applications
 appstore Alfred
