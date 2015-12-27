@@ -35,6 +35,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+tap Caskroom/cask/league-of-legends
 brew league-of-legends
 
 # App Store applications
