@@ -3,7 +3,7 @@
 
 ## Caskroom/cask
 tap Caskroom/cask
-cask Alfred link
+cask Alfred
 cask appcleaner
 cask battle-net
 cask cakebrew
