@@ -3,33 +3,31 @@
 
 ## caskroom/cask
 tap caskroom/cask
-
-# Apps installed directly instead of by Cask in caskroom/cask
-cask install appcleaner 
-cask install battle-net 
-cask install cakebrew 
-cask install cheatsheet 
-cask install dropbox 
-cask install google-chrome 
-cask install google-drive 
-cask install macdown 
-cask install mamp 
-cask install pgadmin3 
-cask install powerphotos 
-cask install skala-preview 
-cask install skype 
-cask install sophos-anti-virus-home-edition 
-cask install sophos-anti-virus-home-edition 
-cask install sourcetree 
-cask install sublime-text 
-cask install virtualbox 
-cask install vlc 
-cask install xtrafinder 
-
+cask appcleaner
+cask battle-net
+cask cakebrew
+cask cheatsheet
+cask dropbox
+cask google-chrome
+cask google-drive
+cask macdown
+cask mamp
+cask pgadmin3
+cask powerphotos
+cask skala-preview
+cask skype
+cask sophos-anti-virus-home-edition
+cask sourcetree
+cask sublime-text
+cask teamspeak-client
+cask virtualbox
+cask vlc
+cask xtrafinder
 
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
+cask sophos-anti-virus-home-edition
 
 # App Store applications
 appstore Alfred
