@@ -1,13 +1,12 @@
 
 # tap repositories and their packages
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
+## caskroom/cask
+tap caskroom/cask
 
-#cask ==> Tapping caskroom/cask
-#cask Cloning into '/usr/local/Library/Taps/caskroom/homebrew-cask'...
-#cask Tapped 1 formula (3320 files, 25M)
-#cask Warning: nothing to list
+## rcmdnk/file
+tap rcmdnk/file
+brew brew-file
 
 # App Store applications
 appstore Alfred
