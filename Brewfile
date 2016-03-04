@@ -25,10 +25,6 @@ cask virtualbox
 cask vlc
 cask xtrafinder
 
-## caskroom/cask
-tap caskroom/cask
-cask sophos-anti-virus-home-edition
-
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
