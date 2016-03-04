@@ -19,7 +19,6 @@ cask skala-preview
 cask skype
 cask sophos-anti-virus-home-edition
 cask sourcetree
-cask steermouse
 cask sublime-text
 cask teamspeak-client
 cask virtualbox
