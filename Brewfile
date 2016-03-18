@@ -11,6 +11,7 @@ cask cheatsheet
 cask dropbox
 cask google-chrome
 cask google-drive
+cask gradle
 cask macdown
 cask mamp
 cask pgadmin3
