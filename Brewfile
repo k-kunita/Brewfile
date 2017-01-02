@@ -14,7 +14,6 @@ cask google-drive
 cask qlgradle
 cask macdown
 cask mamp
-cask pgadmin3
 cask powerphotos
 cask skala-preview
 cask skype
@@ -31,8 +30,7 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
-tap Caskroom/cask/league-of-legends
-brew league-of-legends
+
 
 # App Store applications
 appstore Caffeine
