@@ -8,6 +8,7 @@ tap Caskroom/cask
 tap rcmdnk/file
 
 # Other Homebrew packages
+brew appcleaner
 brew brew-file
 
 # Cask applications
