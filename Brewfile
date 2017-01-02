@@ -8,11 +8,11 @@ tap Caskroom/cask
 tap rcmdnk/file
 
 # Other Homebrew packages
-brew appcleaner
 brew brew-file
 
 # Cask applications
 cask alfred
+cask appcleaner
 cask battle-net
 cask cakebrew
 cask cheatsheet
