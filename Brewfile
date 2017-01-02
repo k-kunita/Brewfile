@@ -3,6 +3,14 @@
 
 ## Caskroom/cask
 tap Caskroom/cask
+
+## rcmdnk/file
+tap rcmdnk/file
+
+# Other Homebrew packages
+brew brew-file
+
+# Cask applications
 cask alfred
 cask appcleaner
 cask battle-net
@@ -11,10 +19,11 @@ cask cheatsheet
 cask dropbox
 cask google-chrome
 cask google-drive
-cask qlgradle
+cask league-of-legends
 cask macdown
 cask mamp
 cask powerphotos
+cask qlgradle
 cask skala-preview
 cask skype
 cask sophos-anti-virus-home-edition
@@ -24,13 +33,6 @@ cask teamspeak-client
 cask virtualbox
 cask vlc
 cask xtrafinder
-
-## rcmdnk/file
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
-
 
 # App Store applications
 appstore Caffeine
