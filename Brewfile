@@ -1,11 +1,11 @@
 
 # tap repositories and their packages
 
-##homebrew/core
-tap homebrew/core
+## caskroom/cask
+tap caskroom/cask
 
-## Caskroom/cask
-tap Caskroom/cask
+## homebrew/core
+tap homebrew/core
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -45,6 +45,7 @@ appstore iPhoto
 appstore Keynote
 appstore LibreOffice Vanilla
 appstore LINE
+appstore Memory Cleaner
 appstore Numbers
 appstore Pages
 appstore The Unarchiver
