@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+##homebrew/core
+tap homebrew/core
+
 ## Caskroom/cask
 tap Caskroom/cask
 
