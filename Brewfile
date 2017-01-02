@@ -13,7 +13,6 @@ brew brew-file
 
 # Cask applications
 cask alfred
-cask appcleaner
 cask battle-net
 cask cakebrew
 cask cheatsheet
