@@ -26,7 +26,6 @@ cask powerphotos
 cask qlgradle
 cask skala-preview
 cask skype
-cask sophos-anti-virus-home-edition
 cask sourcetree
 cask sublime-text
 cask teamspeak-client
