@@ -35,7 +35,6 @@ cask xtrafinder
 
 # App Store applications
 appstore Caffeine
-appstore Evernote
 appstore Found
 appstore GarageBand
 appstore iMovie
@@ -43,7 +42,6 @@ appstore iPhoto
 appstore Keynote
 appstore LibreOffice Vanilla
 appstore LINE
-appstore Memory Monitor
 appstore Numbers
 appstore Pages
 appstore The Unarchiver
