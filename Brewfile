@@ -10,6 +10,7 @@ cask cheatsheet
 cask dropbox
 cask google-chrome
 cask league-of-legends
+cask macdown
 cask powerphotos
 cask qlgradle
 cask skala-preview
@@ -31,6 +32,8 @@ brew gettext
 brew icu4c
 brew jpeg
 brew libpng
+brew libtool
+brew makedepend
 brew openssl
 brew readline
 brew unixodbc
